@@ -15,5 +15,12 @@ namespace RainbowApp
         {
             InitializeComponent();
         }
+
+        public List<string> Alphabetise(List<string> words)
+        {
+            List<string> result = words;
+            return (result);
+        }
+
     }
 }

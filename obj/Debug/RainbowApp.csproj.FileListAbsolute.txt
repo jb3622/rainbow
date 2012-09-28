@@ -1,0 +1,7 @@
+C:\Users\johnb\Documents\Rainbow\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.Properties.Resources.resources
+C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.csproj.GenerateResource.Cache
+C:\Users\johnb\Documents\Rainbow\bin\Debug\RainbowApp.exe
+C:\Users\johnb\Documents\Rainbow\bin\Debug\RainbowApp.pdb
+C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.exe
+C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.pdb
