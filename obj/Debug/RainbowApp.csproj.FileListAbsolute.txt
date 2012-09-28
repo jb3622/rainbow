@@ -5,3 +5,4 @@ C:\Users\johnb\Documents\Rainbow\bin\Debug\RainbowApp.exe
 C:\Users\johnb\Documents\Rainbow\bin\Debug\RainbowApp.pdb
 C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.exe
 C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.pdb
+C:\Users\johnb\Documents\Rainbow\obj\Debug\RainbowApp.FormRainbow.resources
